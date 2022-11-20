@@ -1,0 +1,89 @@
+.heading{
+    padding-top: 20px;
+    padding-left: 20px;
+    font-weight: 900;
+}
+.navbar-brand{
+    color: white;
+    font-weight: 900;
+}
+.navbar-brand:hover{
+    color: white;
+    font-weight: 900;
+}
+#navIT{
+    color: white;
+    font-weight: 200;
+}
+.navbar{
+    background-color: #9ED5C5;
+}
+#breadCrumb{
+    color: #BCEAD5;
+    text-decoration: none;
+    font-weight: 500;
+}
+#heading3{
+    color: #8EC3B0;
+    font-weight: 900;
+}
+.desc{
+    margin-left: 50px;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+.row2{
+    margin-top: 30px;
+}
+.row3{
+    margin-top: 25px;
+}
+.heading1{
+    color: #8EC3B0
+}
+.subHeading1{
+    color: #BCEAD5;
+}
+
+.btn{
+    background-color: #8EC3B0;
+    color: white;
+    border-color: #DEF5E5;
+}
+.btn:hover{
+    background-color: #6D9886;
+    color: white;
+    border-color: #DEF5E5;
+}
+.card{
+    padding: 10px;
+    box-shadow: 5px 10px white;
+}
+.card:hover{
+    box-shadow: 5px 10px #EFF5F5;
+}
+.pTag1{
+    color: #BCEAD5;
+}
+.formInput{
+    margin-left: 25px;
+    margin-right: 500px;
+}
+.labelName{
+    color: #BCEAD5;
+    font-weight: 800;
+    font-size: 20px;
+    margin-top: 4px;
+}
+input[type=text] {
+    width: 100px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #BCEAD5;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+input[type=text]:focus {
+    border: 1px solid #EFF5F5;
+}
